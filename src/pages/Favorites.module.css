@@ -1,0 +1,11 @@
+.day{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.dayContainer{
+    display: flex;
+    gap:15px
+}
